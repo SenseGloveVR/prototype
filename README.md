@@ -1,2 +1,1 @@
-# prototype
-Sense Glove VR
+![alt tag](http://imgur.com/vKDDgEF)
