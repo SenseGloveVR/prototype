@@ -1,1 +1,1 @@
-![alt text](http://i.imgur.com/vKDDgEF.jpg "Logo Title Text 1")
+![alt text](http://i.imgur.com/3f66cej.jpg "promo1")
